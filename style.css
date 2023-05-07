@@ -6,12 +6,13 @@
 
 #clockContainer {
     margin: auto;
-    height: 51vh;
+    height: 100vh;
     width: 40vw;
     background: url(clock.png) no-repeat;
-    background-size: 100%;
+    background-size: 50%;
     position: relative;
 }
+
 
 #hour,
 #minute,
@@ -25,8 +26,8 @@
 #hour {
     width: 1.5%;
     height: 25%;
-    top: 23.5%;
-    left: 49.35%;
+    top: -3%;
+left: 24%;
     background-color: yellow;
 }
 
